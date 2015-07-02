@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>传途</title>
+	<meta name="keywords" content="传途">      
+	<meta name="description" content="传途">
+	<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" id="viewport" name="viewport">
+	<meta content="telephone=no,email=no" name="format-detection" />
+	<link rel="stylesheet" href="public/style/style.css" />
+</head>
+<body>
+	<div class="formbox loginform">
+
+		<p class="wxname">
+			<img src="public/images/userimg.png" alt="" />
+			<input type="text" value="小白白的微信" />
+		</p>
+		<p>
+			<i class="ico-users"></i>
+			<input type="text" placeholder="输入手机号" />
+		</p>
+		<p>
+			<i class="ico-lock"></i>
+			<input type="password" placeholder="密码" />
+		</p>
+		
+		<p class="t-center">
+			<input type="button" value="登录" class="btn" />
+		</p>
+		<p class="formbar"><a href="forgetpas.html">忘记密码</a><a href="index.html">注册账号</a></p>
+	</div>
+	<script src="public/js/zepto.min.js"></script>
+	<script>
+		$('.loginform input').focus(function(){
+			$(this).siblings('i').css({'color':'#4D85D9'})
+		})
+	</script>
+</body>
+</html>

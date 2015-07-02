@@ -1,0 +1,497 @@
+[2015-06-30 00:37:09.672] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E8%AF%B7%E9%80%89%E6%8B%A9&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:43:09.844] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E8%AF%B7%E9%80%89%E6%8B%A9&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:43:16.265] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E8%AF%B7%E9%80%89%E6%8B%A9&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:43:28.736] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E8%AF%B7%E9%80%89%E6%8B%A9&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:44:27.626] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E8%AF%B7%E9%80%89%E6%8B%A9&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:44:28.638] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E8%AF%B7%E9%80%89%E6%8B%A9&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:44:59.296] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E9%99%95%E8%A5%BF&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:45:08.467] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E9%99%95%E8%A5%BF&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:45:35.332] [INFO] access_log - GET /goodslist?destination_province=%E8%AF%B7%E9%80%89%E6%8B%A9&shipper_province=%E8%AF%B7%E9%80%89%E6%8B%A9&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:46:50.943] [INFO] access_log - GET /goodslist?destination_province=%E8%AF%B7%E9%80%89%E6%8B%A9&shipper_province=%E8%AF%B7%E9%80%89%E6%8B%A9&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:46:52.942] [INFO] access_log - GET /goodslist?destination_province=%E8%AF%B7%E9%80%89%E6%8B%A9&shipper_province=%E8%AF%B7%E9%80%89%E6%8B%A9&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:46:59.855] [INFO] access_log - GET /goodslist?destination_province=&shipper_province=&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:47:03.860] [INFO] access_log - GET /goodslist?destination_province=&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:47:07.299] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:47:24.613] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0
+[2015-06-30 00:47:26.808] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:47:31.281] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:47:33.499] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=300
+[2015-06-30 00:47:35.889] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=1-2&truck_weight=100
+[2015-06-30 00:47:39.580] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=1-2&truck_weight=100
+[2015-06-30 00:47:44.116] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E4%B8%8A%E6%B5%B7&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 00:47:47.594] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E4%B8%8A%E6%B5%B7&truck_model=0&truck_length=4-5&truck_weight=100
+[2015-06-30 00:50:03.256] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E4%B8%8A%E6%B5%B7&truck_model=0&truck_length=4-5&truck_weight=100
+[2015-06-30 00:50:06.504] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E4%B8%8A%E6%B5%B7&truck_model=0&truck_length=4-5&truck_weight=100
+[2015-06-30 00:50:09.864] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=100
+[2015-06-30 00:50:14.047] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=100
+[2015-06-30 00:50:32.287] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=100
+[2015-06-30 00:50:33.637] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=100
+[2015-06-30 00:50:35.644] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:39.427] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:39.842] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:40.422] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:40.862] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:41.454] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:41.977] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:42.474] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:43.120] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:54.042] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:54.843] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:55.817] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:56.595] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:50:57.559] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:51:06.777] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%A4%A9%E6%B4%A5&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:51:11.410] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:57:26.126] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2-3&truck_weight=100
+[2015-06-30 00:57:26.693] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E9%AB%98%E6%A0%8F&truck_length=&truck_weight=100
+[2015-06-30 00:57:29.566] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E9%AB%98%E6%A0%8F&truck_length=6&truck_weight=100
+[2015-06-30 00:57:30.394] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E9%AB%98%E6%A0%8F&truck_length=6&truck_weight=100
+[2015-06-30 00:57:33.307] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E9%AB%98%E6%A0%8F&truck_length=3&truck_weight=100
+[2015-06-30 00:57:38.330] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E9%AB%98%E6%A0%8F&truck_length=6+&truck_weight=100
+[2015-06-30 00:58:36.873] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E9%AB%98%E6%A0%8F&truck_length=6+&truck_weight=100
+[2015-06-30 00:59:31.551] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E9%AB%98%E6%A0%8F&truck_length=6+&truck_weight=100
+[2015-06-30 00:59:33.009] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E9%AB%98%E6%A0%8F&truck_length=6+&truck_weight=100
+[2015-06-30 00:59:35.011] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E5%8D%B1%E9%99%A9%E5%93%81&truck_length=6+&truck_weight=100
+[2015-06-30 00:59:37.221] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E5%8D%B1%E9%99%A9%E5%93%81&truck_length=6+&truck_weight=600
+[2015-06-30 00:59:40.473] [INFO] access_log - GET /goodslist?destination_province=%E5%A4%A9%E6%B4%A5&shipper_province=%E6%B1%9F%E8%8B%8F&truck_model=%E5%8D%B1%E9%99%A9%E5%93%81&truck_length=6+&truck_weight=600
+[2015-06-30 01:08:30.150] [INFO] access_log - GET /goodslist?
+[2015-06-30 01:08:30.949] [INFO] access_log - GET /goodslist?
+[2015-06-30 01:08:35.703] [INFO] access_log - GET /goodslist?
+[2015-06-30 01:09:13.227] [INFO] access_log - GET /goodslist?
+[2015-06-30 01:09:14.520] [INFO] access_log - GET /goodslist?
+[2015-06-30 01:09:19.054] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 01:09:24.814] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 01:10:01.249] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 01:10:27.585] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 01:10:31.850] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 01:10:39.688] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 01:10:57.622] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 01:13:34.928] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100
+[2015-06-30 01:13:37.007] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=300-600
+[2015-06-30 10:28:37.150] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=300-600
+[2015-06-30 10:29:50.998] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=300-600
+[2015-06-30 10:30:36.868] [INFO] access_log - GET /goodslist
+[2015-06-30 10:30:39.009] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 10:30:41.538] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 10:30:42.629] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 10:30:43.840] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 10:30:44.526] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 10:30:59.472] [INFO] access_log - GET /
+[2015-06-30 10:30:59.560] [INFO] access_log - GET /public/js/zepto.min.js
+[2015-06-30 10:31:00.891] [INFO] access_log - GET /
+[2015-06-30 10:31:00.969] [INFO] access_log - GET /public/js/zepto.min.js
+[2015-06-30 10:31:03.627] [INFO] access_log - GET /dispatch
+[2015-06-30 10:31:05.066] [INFO] access_log - GET /dispatch
+[2015-06-30 10:31:06.019] [INFO] access_log - GET /dispatch
+[2015-06-30 10:31:50.990] [INFO] access_log - { shipper_name: '刘浩',
+  shipper_tel: '18629353235',
+  shipper_country: '中国大陆',
+  shipper_province: '北京',
+  shipper_city: '海淀区',
+  shipper_addr: '西二旗',
+  destination_country: '中国大陆',
+  destination_province: '北京',
+  destination_city: '昌平区',
+  destination_addr: '立水桥',
+  truck_model: '平板',
+  truck_length: '2',
+  truck_weight: '55',
+  goods_detail: '棉花' }
+[2015-06-30 10:31:51.024] [INFO] access_log - GET /dispatchAdd?shipper_name=%E5%88%98%E6%B5%A9&shipper_tel=18629353235&shipper_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&shipper_province=%E5%8C%97%E4%BA%AC&shipper_city=%E6%B5%B7%E6%B7%80%E5%8C%BA&shipper_addr=%E8%A5%BF%E4%BA%8C%E6%97%97&destination_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&destination_province=%E5%8C%97%E4%BA%AC&destination_city=%E6%98%8C%E5%B9%B3%E5%8C%BA&destination_addr=%E7%AB%8B%E6%B0%B4%E6%A1%A5&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=55&goods_detail=%E6%A3%89%E8%8A%B1
+[2015-06-30 10:31:54.730] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 10:32:40.913] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 10:32:41.941] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 10:32:46.727] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 10:32:47.445] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 10:32:53.744] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=-100
+[2015-06-30 10:33:45.126] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=1200-1500
+[2015-06-30 10:33:50.511] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=1200-1500
+[2015-06-30 10:33:51.326] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=1200-1500
+[2015-06-30 10:33:53.765] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=-100
+[2015-06-30 10:33:54.892] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=-100
+[2015-06-30 10:33:57.446] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100-300
+[2015-06-30 10:34:22.469] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100-300
+[2015-06-30 10:34:23.561] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100-300
+[2015-06-30 10:34:25.692] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=-100
+[2015-06-30 10:34:27.502] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=600-1200
+[2015-06-30 10:34:28.046] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=600-1200
+[2015-06-30 10:34:31.192] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=1500-
+[2015-06-30 10:34:44.834] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=300-600
+[2015-06-30 10:35:10.208] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=300-600
+[2015-06-30 10:37:31.216] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=300-600
+[2015-06-30 10:45:23.629] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=300-600
+[2015-06-30 10:45:32.003] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=-100
+[2015-06-30 10:46:14.042] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=-100
+[2015-06-30 10:46:14.977] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=-100
+[2015-06-30 10:46:30.293] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=-100
+[2015-06-30 10:46:35.338] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=100-300
+[2015-06-30 10:46:37.600] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=-100
+[2015-06-30 10:47:22.701] [INFO] access_log - GET /dispatch
+[2015-06-30 10:47:24.287] [INFO] access_log - GET /dispatch
+[2015-06-30 10:47:25.549] [INFO] access_log - GET /dispatch
+[2015-06-30 10:48:05.393] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=3&truck_weight=-100
+[2015-06-30 10:48:08.455] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=2&truck_weight=-100
+[2015-06-30 10:48:11.567] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=-100
+[2015-06-30 10:48:13.748] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=-100
+[2015-06-30 10:48:15.710] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=-100
+[2015-06-30 10:48:17.878] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=-100
+[2015-06-30 10:48:20.937] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=-100
+[2015-06-30 10:48:25.021] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=-100
+[2015-06-30 10:48:27.150] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=-100
+[2015-06-30 10:48:33.842] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=-100
+[2015-06-30 10:48:44.972] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=4&truck_weight=-100
+[2015-06-30 10:48:46.260] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=-100
+[2015-06-30 10:49:28.139] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=4&truck_weight=-100
+[2015-06-30 10:49:31.077] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:49:33.536] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%8E%A2%E5%BC%8F&truck_length=2&truck_weight=-100
+[2015-06-30 10:49:35.897] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:52:53.324] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:53:03.296] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:53:06.929] [INFO] access_log - GET /goodslist?destination_province=%E9%99%95%E8%A5%BF&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:53:29.586] [INFO] access_log - GET /goodslist?destination_province=%E9%99%95%E8%A5%BF&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:53:59.582] [INFO] access_log - GET /goodslist?destination_province=%E9%99%95%E8%A5%BF&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:54:04.735] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E9%99%95%E8%A5%BF&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:54:09.422] [INFO] access_log - GET /goodslist?destination_province=%E9%99%95%E8%A5%BF&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:54:13.875] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:54:17.398] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:54:41.854] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:54:47.527] [INFO] access_log - GET /goodslist?destination_province=%E5%85%A8%E5%9B%BD&shipper_province=%E5%85%A8%E5%9B%BD&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:55:03.579] [INFO] access_log - GET /dispatch
+[2015-06-30 10:55:06.873] [INFO] access_log - GET /dispatch
+[2015-06-30 10:55:16.662] [INFO] access_log - GET /dispatch
+[2015-06-30 10:55:39.319] [INFO] access_log - GET /dispatch
+[2015-06-30 10:55:40.223] [INFO] access_log - GET /dispatch
+[2015-06-30 10:55:45.935] [INFO] access_log - GET /dispatch
+[2015-06-30 10:56:05.280] [INFO] access_log - GET /dispatch
+[2015-06-30 10:56:23.058] [INFO] access_log - GET /goodslist?destination_province=%E5%85%A8%E5%9B%BD&shipper_province=%E5%85%A8%E5%9B%BD&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:56:24.027] [INFO] access_log - GET /goodslist?destination_province=%E5%85%A8%E5%9B%BD&shipper_province=%E5%85%A8%E5%9B%BD&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:56:30.324] [INFO] access_log - GET /goodslist?destination_province=%E5%85%A8%E5%9B%BD&shipper_province=%E5%85%A8%E5%9B%BD&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:56:33.117] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:56:35.595] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:58:52.225] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:58:57.947] [INFO] access_log - GET /goodslist?destination_province=%E5%85%A8%E5%9B%BD&shipper_province=%E5%85%A8%E5%9B%BD&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:58:58.798] [INFO] access_log - GET /goodslist?destination_province=%E5%85%A8%E5%9B%BD&shipper_province=%E5%85%A8%E5%9B%BD&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:59:00.938] [INFO] access_log - GET /goodslist?destination_province=%E5%85%A8%E5%9B%BD&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:59:03.368] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:59:05.813] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%85%A8%E5%9B%BD&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:59:14.589] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%85%A8%E5%9B%BD&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:59:51.973] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%85%A8%E5%9B%BD&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:59:52.809] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%85%A8%E5%9B%BD&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 10:59:55.121] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 11:00:02.778] [INFO] access_log - GET /
+[2015-06-30 11:00:02.861] [INFO] access_log - GET /public/js/zepto.min.js
+[2015-06-30 11:00:05.900] [INFO] access_log - GET /dispatch
+[2015-06-30 11:00:07.162] [INFO] access_log - GET /dispatch
+[2015-06-30 11:00:08.717] [INFO] access_log - GET /dispatch
+[2015-06-30 11:00:23.097] [INFO] access_log - GET /dispatch
+[2015-06-30 11:00:25.902] [INFO] access_log - GET /dispatch
+[2015-06-30 11:01:07.607] [INFO] access_log - { shipper_name: '王忠华',
+  shipper_tel: '11111',
+  shipper_country: '中国大陆',
+  shipper_province: '广东',
+  shipper_city: '广州',
+  shipper_addr: '一个地方',
+  destination_country: '中国大陆',
+  destination_province: '北京',
+  destination_city: '海淀区',
+  destination_addr: '',
+  truck_model: '高栏',
+  truck_length: '3',
+  truck_weight: '200',
+  goods_detail: '电脑' }
+[2015-06-30 11:01:07.623] [INFO] access_log - GET /dispatchAdd?shipper_name=%E7%8E%8B%E5%BF%A0%E5%8D%8E&shipper_tel=11111&shipper_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&shipper_province=%E5%B9%BF%E4%B8%9C&shipper_city=%E5%B9%BF%E5%B7%9E&shipper_addr=%E4%B8%80%E4%B8%AA%E5%9C%B0%E6%96%B9&destination_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&destination_province=%E5%8C%97%E4%BA%AC&destination_city=%E6%B5%B7%E6%B7%80%E5%8C%BA&destination_addr=&truck_model=%E9%AB%98%E6%A0%8F&truck_length=3&truck_weight=200&goods_detail=%E7%94%B5%E8%84%91
+[2015-06-30 11:01:11.087] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 11:01:14.313] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 11:01:17.038] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 11:01:19.107] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=-100
+[2015-06-30 11:01:21.448] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 11:01:22.840] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 11:01:26.912] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 11:01:34.963] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 11:01:35.890] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 11:01:38.969] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%B9%BF%E4%B8%9C&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 11:01:42.132] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%B9%BF%E4%B8%9C&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 11:01:46.307] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%B9%BF%E4%B8%9C&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 11:01:49.332] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 11:01:51.984] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 11:02:33.588] [INFO] access_log - GET /goodslist
+[2015-06-30 11:02:35.079] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 11:02:37.253] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 11:02:37.895] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:21:26.888] [INFO] access_log - GET /
+[2015-06-30 22:21:27.048] [INFO] access_log - GET /public/js/zepto.min.js
+[2015-06-30 22:21:27.206] [INFO] access_log - GET /favicon.ico
+[2015-06-30 22:21:31.776] [INFO] access_log - GET /goodslist
+[2015-06-30 22:21:33.354] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:24:41.994] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:24:47.624] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 22:24:50.211] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:24:52.754] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:24:57.122] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:06.146] [INFO] access_log - GET /goodslist?destination_province=%E5%B9%BF%E4%B8%9C&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:07.916] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:43.506] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:44.760] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:45.771] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:46.787] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:47.609] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:48.364] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:49.120] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:51.221] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:53.678] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2&truck_weight=-100
+[2015-06-30 22:25:54.412] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2&truck_weight=-100
+[2015-06-30 22:26:07.417] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2&truck_weight=-100
+[2015-06-30 22:26:08.503] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E9%AB%98%E6%A0%8F&truck_length=2&truck_weight=-100
+[2015-06-30 22:26:12.871] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=0&truck_length=2&truck_weight=-100
+[2015-06-30 22:26:15.554] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=0&truck_length=2&truck_weight=-100
+[2015-06-30 22:26:18.102] [INFO] access_log - GET /goodslist
+[2015-06-30 22:26:34.800] [INFO] access_log - GET /goodslist
+[2015-06-30 22:26:37.242] [INFO] access_log - GET /goodslist
+[2015-06-30 22:26:38.616] [INFO] access_log - GET /goodslist
+[2015-06-30 22:26:49.455] [INFO] access_log - GET /goodslist
+[2015-06-30 22:27:17.728] [INFO] access_log - GET /goodslist
+[2015-06-30 22:27:41.443] [INFO] access_log - GET /goodslist
+[2015-06-30 22:28:14.952] [INFO] access_log - GET /goodslist
+[2015-06-30 22:28:17.706] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 22:28:47.915] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 22:28:50.206] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:28:50.890] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:28:54.524] [INFO] access_log - GET /goodslist?
+[2015-06-30 22:28:56.255] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:28:58.320] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=0
+[2015-06-30 22:29:00.555] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E5%9C%B0%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 22:30:57.878] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E5%9C%B0%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 22:31:41.313] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:31:59.087] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=0
+[2015-06-30 22:32:00.579] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E4%BF%9D%E6%B8%A9%E5%86%B7%E8%97%8F&truck_length=0&truck_weight=0
+[2015-06-30 22:35:15.662] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E4%BF%9D%E6%B8%A9%E5%86%B7%E8%97%8F&truck_length=0&truck_weight=0
+[2015-06-30 22:35:16.558] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E4%BF%9D%E6%B8%A9%E5%86%B7%E8%97%8F&truck_length=0&truck_weight=0
+[2015-06-30 22:35:23.901] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E4%BF%9D%E6%B8%A9%E5%86%B7%E8%97%8F&truck_length=0&truck_weight=0
+[2015-06-30 22:35:43.999] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E4%BF%9D%E6%B8%A9%E5%86%B7%E8%97%8F&truck_length=0&truck_weight=0
+[2015-06-30 22:35:44.791] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E4%BF%9D%E6%B8%A9%E5%86%B7%E8%97%8F&truck_length=0&truck_weight=0
+[2015-06-30 22:35:47.382] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:35:50.057] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:35:52.328] [INFO] access_log - GET /goodslist?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:35:54.511] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:36:00.530] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:36:05.442] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=0&truck_length=2&truck_weight=0
+[2015-06-30 22:36:07.580] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:37:42.800] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:42:21.276] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:42:22.276] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:42:43.352] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:43:06.584] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:43:48.191] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:45:33.700] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:45:50.530] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:47:09.586] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:47:29.879] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:47:38.887] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:47:55.368] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:50:09.488] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:50:25.930] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:50:34.346] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:50:36.702] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=0&truck_length=2&truck_weight=0
+[2015-06-30 22:50:37.957] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=0
+[2015-06-30 22:50:53.407] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=0&truck_length=2&truck_weight=0
+[2015-06-30 22:50:54.861] [INFO] access_log - GET /goodslist
+[2015-06-30 22:50:55.324] [INFO] access_log - GET /goodslist
+[2015-06-30 22:51:12.626] [INFO] access_log - GET /goodslist
+[2015-06-30 22:52:16.125] [INFO] access_log - GET /goodslist
+[2015-06-30 22:52:20.706] [INFO] access_log - GET /goodslist
+[2015-06-30 22:52:38.299] [INFO] access_log - GET /goodslist
+[2015-06-30 22:52:39.088] [INFO] access_log - GET /goodslist
+[2015-06-30 22:52:48.211] [INFO] access_log - GET /goodslist
+[2015-06-30 22:52:49.636] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:53:01.527] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:53:05.742] [INFO] access_log - GET /goodslist
+[2015-06-30 22:53:07.316] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:53:08.964] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E5%9C%B0%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 22:53:16.660] [INFO] access_log - GET /goodslist?
+[2015-06-30 22:53:23.125] [INFO] access_log - GET /dispatch
+[2015-06-30 22:53:23.541] [INFO] access_log - GET /dispatch
+[2015-06-30 22:54:19.413] [INFO] access_log - GET /dispatch
+[2015-06-30 22:55:00.999] [INFO] access_log - { shipper_name: '王忠华',
+  shipper_tel: '110',
+  shipper_country: '中国大陆',
+  shipper_province: '广东',
+  shipper_city: '广州',
+  shipper_addr: '不知道',
+  destination_country: '中国大陆',
+  destination_province: '北京',
+  destination_city: '东城区',
+  destination_addr: '不知道',
+  truck_model: '平板',
+  truck_length: '3',
+  truck_weight: '500',
+  goods_detail: '化肥' }
+[2015-06-30 22:55:01.024] [INFO] access_log - GET /dispatchAdd?shipper_name=%E7%8E%8B%E5%BF%A0%E5%8D%8E&shipper_tel=110&shipper_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&shipper_province=%E5%B9%BF%E4%B8%9C&shipper_city=%E5%B9%BF%E5%B7%9E&shipper_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&destination_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&destination_province=%E5%8C%97%E4%BA%AC&destination_city=%E4%B8%9C%E5%9F%8E%E5%8C%BA&destination_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=3&truck_weight=500&goods_detail=%E5%8C%96%E8%82%A5
+[2015-06-30 22:55:08.304] [INFO] access_log - { shipper_name: '王忠华',
+  shipper_tel: '110',
+  shipper_country: '中国大陆',
+  shipper_province: '广东',
+  shipper_city: '广州',
+  shipper_addr: '不知道',
+  destination_country: '中国大陆',
+  destination_province: '北京',
+  destination_city: '东城区',
+  destination_addr: '不知道',
+  truck_model: '平板',
+  truck_length: '3',
+  truck_weight: '500',
+  goods_detail: '化肥' }
+[2015-06-30 22:55:08.333] [INFO] access_log - GET /dispatchAdd?shipper_name=%E7%8E%8B%E5%BF%A0%E5%8D%8E&shipper_tel=110&shipper_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&shipper_province=%E5%B9%BF%E4%B8%9C&shipper_city=%E5%B9%BF%E5%B7%9E&shipper_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&destination_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&destination_province=%E5%8C%97%E4%BA%AC&destination_city=%E4%B8%9C%E5%9F%8E%E5%8C%BA&destination_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=3&truck_weight=500&goods_detail=%E5%8C%96%E8%82%A5
+[2015-06-30 22:55:13.740] [INFO] access_log - { destination_province: '北京',
+  shipper_province: '广东',
+  truck_model: '平板',
+  truck_length: '3',
+  truck_weight: '-100' }
+[2015-06-30 22:55:13.748] [INFO] access_log - GET /dispatchAdd?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%B9%BF%E4%B8%9C&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=3&truck_weight=-100
+[2015-06-30 22:55:15.647] [INFO] access_log - { destination_province: '北京',
+  shipper_province: '广东',
+  truck_model: '平板',
+  truck_length: '3',
+  truck_weight: '0' }
+[2015-06-30 22:55:15.649] [INFO] access_log - GET /dispatchAdd?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%B9%BF%E4%B8%9C&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=3&truck_weight=0
+[2015-06-30 22:55:21.434] [INFO] access_log - { destination_province: '北京',
+  shipper_province: '广东',
+  truck_model: '平板',
+  truck_length: '3',
+  truck_weight: '-100' }
+[2015-06-30 22:55:21.439] [INFO] access_log - GET /dispatchAdd?destination_province=%E5%8C%97%E4%BA%AC&shipper_province=%E5%B9%BF%E4%B8%9C&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=3&truck_weight=-100
+[2015-06-30 22:55:22.189] [INFO] access_log - { shipper_name: '王忠华',
+  shipper_tel: '110',
+  shipper_country: '中国大陆',
+  shipper_province: '广东',
+  shipper_city: '广州',
+  shipper_addr: '不知道',
+  destination_country: '中国大陆',
+  destination_province: '北京',
+  destination_city: '东城区',
+  destination_addr: '不知道',
+  truck_model: '平板',
+  truck_length: '3',
+  truck_weight: '500',
+  goods_detail: '化肥' }
+[2015-06-30 22:55:22.199] [INFO] access_log - GET /dispatchAdd?shipper_name=%E7%8E%8B%E5%BF%A0%E5%8D%8E&shipper_tel=110&shipper_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&shipper_province=%E5%B9%BF%E4%B8%9C&shipper_city=%E5%B9%BF%E5%B7%9E&shipper_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&destination_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&destination_province=%E5%8C%97%E4%BA%AC&destination_city=%E4%B8%9C%E5%9F%8E%E5%8C%BA&destination_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=3&truck_weight=500&goods_detail=%E5%8C%96%E8%82%A5
+[2015-06-30 22:55:23.420] [INFO] access_log - GET /dispatch
+[2015-06-30 22:55:25.875] [INFO] access_log - { shipper_name: '王忠华',
+  shipper_tel: '110',
+  shipper_country: '中国大陆',
+  shipper_province: '0',
+  shipper_addr: '不知道',
+  destination_country: '中国大陆',
+  destination_province: '0',
+  destination_addr: '不知道',
+  truck_model: '平板',
+  truck_length: '3',
+  truck_weight: '500',
+  goods_detail: '化肥' }
+[2015-06-30 22:55:25.879] [INFO] access_log - GET /dispatchAdd?shipper_name=%E7%8E%8B%E5%BF%A0%E5%8D%8E&shipper_tel=110&shipper_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&shipper_province=0&shipper_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&destination_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&destination_province=0&destination_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=3&truck_weight=500&goods_detail=%E5%8C%96%E8%82%A5
+[2015-06-30 22:56:05.955] [INFO] access_log - { shipper_name: '王忠华',
+  shipper_tel: '110',
+  shipper_country: '中国大陆',
+  shipper_province: '0',
+  shipper_addr: '不知道',
+  destination_country: '中国大陆',
+  destination_province: '0',
+  destination_addr: '不知道',
+  truck_model: '平板',
+  truck_length: '3',
+  truck_weight: '500',
+  goods_detail: '化肥' }
+[2015-06-30 22:56:05.986] [INFO] access_log - GET /dispatchAdd?shipper_name=%E7%8E%8B%E5%BF%A0%E5%8D%8E&shipper_tel=110&shipper_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&shipper_province=0&shipper_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&destination_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&destination_province=0&destination_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=3&truck_weight=500&goods_detail=%E5%8C%96%E8%82%A5
+[2015-06-30 22:57:14.093] [INFO] access_log - { shipper_name: '王忠华',
+  shipper_tel: '110',
+  shipper_country: '中国大陆',
+  shipper_province: '0',
+  shipper_addr: '不知道',
+  destination_country: '中国大陆',
+  destination_province: '0',
+  destination_addr: '不知道',
+  truck_model: '平板',
+  truck_length: '3',
+  truck_weight: '500',
+  goods_detail: '化肥' }
+[2015-06-30 22:57:14.101] [INFO] access_log - GET /dispatchAdd?shipper_name=%E7%8E%8B%E5%BF%A0%E5%8D%8E&shipper_tel=110&shipper_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&shipper_province=0&shipper_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&destination_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&destination_province=0&destination_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=3&truck_weight=500&goods_detail=%E5%8C%96%E8%82%A5
+[2015-06-30 22:57:19.263] [INFO] access_log - { shipper_name: '王忠华',
+  shipper_tel: '110',
+  shipper_country: '中国大陆',
+  shipper_province: '0',
+  shipper_addr: '不知道',
+  destination_country: '中国大陆',
+  destination_province: '0',
+  destination_addr: '不知道',
+  truck_model: '平板',
+  truck_length: '3',
+  truck_weight: '500',
+  goods_detail: '化肥' }
+[2015-06-30 22:57:19.287] [INFO] access_log - GET /dispatchAdd?shipper_name=%E7%8E%8B%E5%BF%A0%E5%8D%8E&shipper_tel=110&shipper_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&shipper_province=0&shipper_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&destination_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&destination_province=0&destination_addr=%E4%B8%8D%E7%9F%A5%E9%81%93&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=3&truck_weight=500&goods_detail=%E5%8C%96%E8%82%A5
+[2015-06-30 22:57:19.299] [INFO] access_log - GET /goodslist
+[2015-06-30 22:57:21.515] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:58:36.557] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:58:39.241] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 22:58:41.008] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 22:58:51.493] [INFO] access_log - GET /dispatch
+[2015-06-30 22:58:52.012] [INFO] access_log - GET /dispatch
+[2015-06-30 22:59:55.533] [INFO] access_log - { shipper_name: '刘浩',
+  shipper_tel: '18629353235',
+  shipper_country: '中国大陆',
+  shipper_province: '北京',
+  shipper_city: '海淀区',
+  shipper_addr: '西二旗',
+  destination_country: '中国大陆',
+  destination_province: '陕西',
+  destination_city: '西安',
+  destination_addr: '电力医院',
+  truck_model: '平板',
+  truck_length: '2',
+  truck_weight: '500',
+  goods_detail: '化肥' }
+[2015-06-30 22:59:55.546] [INFO] access_log - GET /dispatchAdd?shipper_name=%E5%88%98%E6%B5%A9&shipper_tel=18629353235&shipper_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&shipper_province=%E5%8C%97%E4%BA%AC&shipper_city=%E6%B5%B7%E6%B7%80%E5%8C%BA&shipper_addr=%E8%A5%BF%E4%BA%8C%E6%97%97&destination_country=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&destination_province=%E9%99%95%E8%A5%BF&destination_city=%E8%A5%BF%E5%AE%89&destination_addr=%E7%94%B5%E5%8A%9B%E5%8C%BB%E9%99%A2&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=2&truck_weight=500&goods_detail=%E5%8C%96%E8%82%A5
+[2015-06-30 22:59:55.551] [INFO] access_log - GET /goodslist
+[2015-06-30 23:00:00.087] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 23:00:02.988] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 23:00:03.804] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 23:00:08.337] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 23:00:20.206] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 23:00:23.961] [INFO] access_log - GET /goodslist?
+[2015-06-30 23:00:27.933] [INFO] access_log - GET /goodslist?
+[2015-06-30 23:00:41.829] [INFO] access_log - GET /goodslist?
+[2015-06-30 23:00:46.204] [INFO] access_log - GET /goodslist?
+[2015-06-30 23:00:47.370] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 23:00:50.473] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 23:00:52.177] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:00:55.010] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=100-300
+[2015-06-30 23:00:56.922] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=300-600
+[2015-06-30 23:00:58.586] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=%E5%8C%97%E4%BA%AC&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:41:34.886] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%DD)%B7%CF&truck_length=0&truck_weight=0
+[2015-06-30 23:41:36.857] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%DD)%B7%CF&truck_length=0&truck_weight=0
+[2015-06-30 23:44:10.830] [INFO] access_log - GET /goodslist?
+[2015-06-30 23:44:14.971] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:45:02.263] [INFO] access_log - GET /goodslist
+[2015-06-30 23:45:04.666] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:45:11.995] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:45:12.922] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:45:15.449] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 23:45:16.091] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 23:45:18.418] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:45:24.685] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:45:57.114] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=0
+[2015-06-30 23:46:15.982] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=0
+[2015-06-30 23:46:16.483] [INFO] access_log - GET /favicon.ico
+[2015-06-30 23:46:31.047] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=0
+[2015-06-30 23:47:24.899] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=0
+[2015-06-30 23:47:38.102] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=0
+[2015-06-30 23:47:45.352] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%8E%A2%E5%BC%8F&truck_length=0&truck_weight=0
+[2015-06-30 23:48:39.449] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%8E%A2%E5%BC%8F&truck_length=0&truck_weight=0
+[2015-06-30 23:48:46.886] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E4%BF%9D%E6%B8%A9%E5%86%B7%E8%97%8F&truck_length=0&truck_weight=0
+[2015-06-30 23:54:03.098] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E9%AB%98%E6%A0%8F&truck_length=0&truck_weight=0
+[2015-06-30 23:54:09.330] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:54:09.933] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=0&truck_length=0&truck_weight=0
+[2015-06-30 23:54:10.517] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:54:11.002] [INFO] access_log - GET /goodslist
+[2015-06-30 23:54:11.450] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E5%B9%B3%E6%9D%BF&truck_length=0&truck_weight=0
+[2015-06-30 23:54:11.985] [INFO] access_log - GET /goodslist?
+[2015-06-30 23:54:12.406] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%DD)%B7%CF&truck_length=0&truck_weight=0
+[2015-06-30 23:55:05.171] [INFO] access_log - GET /goodslist?destination_province=0&shipper_province=0&truck_model=%E4%BF%9D%E6%B8%A9%E5%86%B7%E8%97%8F&truck_length=0&truck_weight=0

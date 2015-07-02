@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>传途-发货</title>
+    <meta name="keywords" content="传途">
+    <meta name="description" content="传途">
+    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" id="viewport" name="viewport">
+    <meta content="telephone=no,email=no" name="format-detection" />
+    <link rel="stylesheet" href="style/style.css" />
+</head>
+<body>
+    <div class="topinfo">
+        亲，很多师傅都拭目以待，赶快提交您的货单吧！
+    </div>
+    <form action="dispatchAdd" class="formgroup">
+        <div class="sitebox">
+            <div class="fline">
+                <label class="labeltitle"><i class="ico-user red"></i>联系人信息</label>
+            </div>
+            <div class="fline">
+                <label  >发货人姓名</label><input name="shipper_name" type="text" placeholder="长度不超过25个字符" required maxlength="25"/>
+            </div>
+            <div class="fline phoneline">
+                <label  >手机号</label>
+                <div class="phonearea">
+                    <div class="areabtn">
+                        <select name="" id="">
+                            <option>中国大陆+86</option>
+                            <option>美国+01</option>
+                            <option>日本+21</option>
+                        </select>
+                    </div>
+                <input name="shipper_tel" type="text" placeholder="电话号码、手机号码必须填一项" required maxlength="25"/>
+                </div>
+            </div>
+        </div>
+        <div class="sitebox">
+            <div class="fline">
+                <label class="labeltitle"><i class="ico-local blue"></i>发货地</label>
+                <div class="areabox">
+                    <div class="selectbox">
+                        <select name="shipper_country" id="" required><option>中国大陆</option></select>
+                    </div>
+                    <div class="selectbox">
+                        <select class="shipper-province" name="shipper_province" id=""><option>请选择</option></select>
+                    </div>
+                    <div class="selectbox">
+                        <select class="shipper-city" name="shipper_city" id=""><option>请选择</option></select>
+                    </div>
+                </div>
+            </div>
+            <div class="fline">
+                <label  >详细地址</label><textarea class="shipper-addr" name="shipper_addr" placeholder="建议您如实填写详细收货地址，例如接到名称，门牌号码，楼层和房间号等信息" maxlength="100"></textarea>
+            </div>
+        </div>
+        <div class="sitebox">
+            <div class="fline">
+                <label class="labeltitle"><i class="ico-local green"></i>发送至</label>
+                <div class="areabox">
+                    <div class="selectbox">
+                        <select name="destination_country" id=""><option>中国大陆</option></select>
+                    </div>
+                    <div class="selectbox">
+                        <select class="destination-province" name="destination_province" id=""><option>请选择</option></select>
+                    </div>
+                    <div class="selectbox">
+                        <select class="destination-city" name="destination_city" id=""><option>请选择</option></select>
+                    </div>
+                </div>
+            </div>
+            <div class="fline">
+                <label  >详细地址</label><textarea name="destination_addr" placeholder="建议您如实填写详细收货地址，例如接到名称，门牌号码，楼层和房间号等信息" maxlength="100"></textarea>
+            </div>
+        </div>
+        <div class="sitebox">
+            <div class="fline">
+                <label class="labeltitle"><i class="ico-cars orange"></i>车辆信息</label>
+            </div>
+            <div class="fline">
+                <label>所需车型</label>
+                <div class="selectbox selectblock">
+                    <select name="truck_model" id="">
+                        <option value="不限">不限</option>
+                        <option value="平板">平板</option>
+                        <option value="高栏">高栏</option>
+                        <option value="厢式">厢式</option>
+                        <option value="高地板">高地板</option>
+                        <option value="保温冷藏">保温冷藏</option>
+                        <option value="危险品">危险品</option>
+                    </select>
+                </div>
+            </div>
+            <div class="fline">
+                <label >车长</label>
+                <div class="selectbox selectblock">
+                    <select name="truck_length" id="">
+                        <option value="0">不限</option>
+                        <option value="2">1m-2m</option>
+                        <option value="3">2m-3m</option>
+                        <option value="4">3m-4m</option>
+                        <option value="5">4m-5m</option>
+                        <option value="6">5m-6m</option>
+                        <option value="6+">6m以上</option>
+                    </select>
+                </div>
+            </div>
+            <div class="fline">
+                <label  >重量(单位:kg)</label><input name="truck_weight" type="text" placeholder="长度不超过25个字符" required maxlength="25"/>
+            </div>
+            <div class="fline">
+                <label  >货物描述</label><textarea name="goods_detail" placeholder="例：化肥、20袋、体积100平方米、垫付等等" required maxlength="100"></textarea>
+            </div>
+
+        </div>
+        <p class="t-center">
+            <input type="submit" value="提交发货" class="btn" />
+        </p>
+    </form>
+    <script src='js/lib/zepto.min.js'></script>
+    <script src='js/utils/utils.js'></script>
+    <script src='js/app/dispatch.js'></script>
+</body>
+</html>
