@@ -1,5 +1,6 @@
 var logger = process.logger.accessLog;
 var models = process.models;
+var queue = process.queue;
 var regAction = function(arg) {
     var res = arg.res;
     var req = arg.req;
@@ -9,6 +10,13 @@ var regAction = function(arg) {
     if (req['headers']['x-requested-with'] == 'XMLHttpRequest') {
         var Entity = models['user'];
         var user = new Entity(req.body);
+        if (req.body.phonecode != queue[req.body.phone]['code']) {
+            res.send({
+                'error_num': 1,
+                'info': '请输入正确的验证码'
+            })
+            return;
+        }
         Entity.find({
             phone: user.phone
         }, function(err, doc) {
@@ -28,10 +36,8 @@ var regAction = function(arg) {
                 });
             }
         });
-
     } else {
         res.render('reg');
     }
-
 };
 module.exports = regAction;

@@ -14,7 +14,17 @@ $(function() {
     });
 
     $('.phonecode').on('click', function() {
-        $(this).siblings('input').val(8888);
+        $.post('getcode', {
+            phone: $('.phone-num').val()
+        }, function(resp) {
+            resp = JSON.parse(resp);
+            alert(resp.info);
+            if (resp.error_num == 0) {
+
+            } else {
+
+            }
+        })
     });
 
     $('.regbtn').on('click', function() {
