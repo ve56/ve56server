@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>传途-货物详情页</title>
+	<meta name="keywords" content="传途">
+	<meta name="description" content="传途">
+	<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" id="viewport" name="viewport">
+	<meta content="telephone=no,email=no" name="format-detection" />
+	<link rel="stylesheet" href="style/style.css" />
+</head>
+<body>
+	<div class="dethead">
+		<div class="uninfo">
+			<img src="/images/userimg.png" alt="" />
+			<div class="ucont">
+				<h4><%=data[0].shipper_name%></h4>
+				<p></p>
+				<p><%=data[0].shipper_tel%></p>
+			</div>
+			<a href="tel:<%=data[0].shipper_tel%>" class="ico-phone uphone"></a>
+		</div>
+		<div class="itemarea">
+			<p class="starsite"><i class="ico-local green"></i><%=data[0].shipper_province + data[0].shipper_city + data[0].shipper_addr%></p>
+			<p class="endsite"><i class="ico-local red"></i><%=data[0].destination_province + data[0].destination_city + data[0].destination_addr%></p>
+		</div>
+	</div>
+	<ul class="goodsinfo">
+<!-- 		<li><b>货物名称</b><p>一百吨化肥</p></li> -->
+		<li><b>所需车型</b><p><%=data[0].truck_model%></p></li>
+		<li><b>所需车长</b><p><%=data[0].truck_length%>m</p></li>
+		<li><b>货物重量</b><p><%=data[0].truck_weight%>kg</p></li>
+		<li><b>货物详情</b><p><%=data[0].goods_detail%></p></li>
+		<li><b>发布时间</b><p><%=data[0].start_time%></p></li>
+		<li><b>备注</b><p><%=data[0].goods_detail%></p></li>
+	</ul>
+</body>
+</html>

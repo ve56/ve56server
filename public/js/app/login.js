@@ -29,6 +29,8 @@ $(function() {
                     alert('欢迎使用，亲爱的司机朋友');
                     window.location.pathname = 'goodslist';
                 }
+            } else{
+                alert(resp.error_msg);
             }
         })
     })

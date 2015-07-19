@@ -9,9 +9,14 @@ var loginAction = function(arg) {
         phone: req.body.phone,
         password: req.body.password
     }
-    console.log(conditions);
+
     Entity.find(conditions, function(err, doc) {
         if (doc.length > 0) {
+            req.session.userInfo = {
+                is_login: true,
+                user_id: doc[0]._id,
+                user_type: doc[0].usertype
+            }
             res.send({
                 error_no: 0,
                 data: doc[0],
@@ -21,7 +26,7 @@ var loginAction = function(arg) {
             res.send({
                 error_no: 1,
                 data: doc,
-                error_msg: 'password and username error'
+                error_msg: '用户名或密码错误'
             });
         }
     });

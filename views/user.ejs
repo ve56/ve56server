@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>司机-个人中心</title>
+	<meta name="keywords" content="传途">
+	<meta name="description" content="传途">
+	<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" id="viewport" name="viewport">
+	<meta content="telephone=no,email=no" name="format-detection" />
+	<link rel="stylesheet" href="style/style.css" />
+</head>
+<body>
+	<div class="topinfo">
+		<div class="userhead">
+			<img src="images/userimg.png" alt="" />
+			<h4><%=data[0].name%></h4>
+			<p><%=data[0].phone%></p>
+		</div>
+
+	</div>
+	<ul class="list">
+		<li>
+			<a href="/driverInfo">实名认证 <span>未认证</span></a>
+		</li>
+		<li>
+			<a href="/driverRecord">配货记录</a>
+		</li>
+	</ul>
+	<script src="js/lib/zepto.min.js"></script>
+</body>
+</html>

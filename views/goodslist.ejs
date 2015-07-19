@@ -74,19 +74,21 @@
         <% } %>
         <% data.forEach(function(item){ %>
           <li>
-            <div class="goodscont">
-                <i class="stime"><%= new Date(item.start_time).toLocaleDateString();%></i>
-                <div class="itemarea">
-                    <p class="starsite"><i class="ico-local green"></i><%= item.shipper_province + item.shipper_city%></p>
-                    <p class="endsite"><i class="ico-local red"></i><%= item.destination_province + item.destination_city%></p>
+            <a href="goodsdetails?_id=<%=item._id%>">
+                <div class="goodscont">
+                    <i class="stime"><%= new Date(item.start_time).toLocaleDateString();%></i>
+                    <div class="itemarea">
+                        <p class="starsite"><i class="ico-local green"></i><%= item.shipper_province + item.shipper_city%></p>
+                        <p class="endsite"><i class="ico-local red"></i><%= item.destination_province + item.destination_city%></p>
+                    </div>
+                    <p class="mtag">
+                        <span><%= item.truck_model%></span>
+                        <span><%= item.truck_length%>m车长</span>
+                        <span><%= item.truck_weight%>kg</span>
+                    </p>
                 </div>
-                <p class="mtag">
-                    <span><%= item.truck_model%></span>
-                    <span><%= item.truck_length%>m车长</span>
-                    <span><%= item.truck_weight%>kg</span>
-                </p>
-            </div>
-            <a class="takein">抢</a>
+                <a href="tel:<%= item.shipper_tel%>" class="takein">抢</a>
+            </a>
         </li>
         <% }) %>
     </ul>

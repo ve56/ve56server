@@ -62,5 +62,13 @@ module.exports = {
     order_time: {
         type: Number,
         default: ''
+    },
+    order_user:{
+        type: Number,
+        default: ''
+    },
+    is_done: {
+        type: Boolean,
+        default: false
     }
 };
