@@ -79,7 +79,7 @@ var message = {
                 var code = random4code();
                 content = '短信验证码为：' + code + '，请勿将验证码提供给他人。';
                 queuePush(telephone, {
-                    time: 60,
+                    time: 120,
                     code: code
                 })
             }

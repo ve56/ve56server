@@ -46,7 +46,7 @@ app.use(function(req, res, next) {
     var path = url.parse(req.url).pathname;
     console.log(path);
     //当没登陆，且用户路径不在首页时，跳转到首页
-    if (userInfo.is_login == false && path != '/' && path != '/reg' && requestType != 'XMLHttpRequest') {
+    if (userInfo.is_login == false && path != '/' && path != '/reg' && path != '/forgetpas' && requestType != 'XMLHttpRequest') {
         res.redirect('/');
     } else {
         next();

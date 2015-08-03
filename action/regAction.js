@@ -28,9 +28,17 @@ var regAction = function(arg) {
             } else {
                 user.save(function(err, doc) {
                     if (!err) {
+                        console.log(doc);
+                        req.session.userInfo = {
+                            is_login: true,
+                            user_id: doc._id,
+                            user_type: doc.usertype
+                        }
                         res.send({
-                            'error_num': 0,
-                            'info': '注册成功'
+                            error_no: 0,
+                            data: doc,
+                            error_msg: 'okay',
+                            info: '注册成功'
                         });
                     }
                 });

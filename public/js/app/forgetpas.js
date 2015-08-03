@@ -9,44 +9,41 @@ $(function() {
         })
     });
 
-    $('.reguser').on('click', 'a', function() {
-        $(this).addClass('active').siblings().removeClass('active');
-    });
-
     $('.phonecode').on('click', function() {
         $.post('getcode', {
             phone: $('.phone-num').val()
         }, function(resp) {
             resp = JSON.parse(resp);
             alert(resp.info);
-            if (resp.error_num == 0) {
-
-            } else {
-
-            }
         })
     });
 
-    $('.regbtn').on('click', function() {
-        var name = $('.name').val();
+    $('.submit').on('click', function() {
         var phone = $('.phone-num').val();
-        var password = $('.password').val();
+        var password = $('.pass1').val();
+        var passwordConfirm = $('.pass2').val();
         var phonecode = $('.phonecode').siblings('input').val();
-        var usertype = $('.reguser .active').attr('data-type');
-        if (phone == '' || password == '' || phonecode == '' || usertype == '') {
+        if (phone == '' || password == '' || passwordConfirm == '' || phonecode == '') {
             alert('请将信息补充完整');
             return;
         }
-        $.post('reg', {
-            name: name,
+        if(password != passwordConfirm){
+            alert('两次密码不一致，请重新输入');
+            $('.pass1').focus();
+            return;
+        }
+        $.post('forgetpas', {
             phone: phone,
             password: password,
             phonecode: phonecode,
-            usertype: usertype
         }, function(resp) {
             resp = JSON.parse(resp);
-            alert('注册成功，正在跳转中');
-            window.location.pathname = usertype === 'driver'? 'goodslist' : 'dispatch';
+            if (resp.error_num == 0) {
+                alert(resp.info)
+                window.location.pathname = '/';
+            } else {
+                alert(resp.info);
+            }
         })
     });
 })

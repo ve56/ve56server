@@ -5,11 +5,11 @@ $(function() {
      */
 
     $('.formgroup').on('submit', function() {
-        if ($('.shipper-province').val() == '请选择' || $('.shipper-city').val() == '请选择' || $('.shipper-addr').val() == '') {
+        if ($('.shipper-province').val() == '请选择' || $('.shipper-city').val() == '请选择') {
             alert('请补全发货地');
             return false;
         }
-        if ($('.destination-province').val() == '请选择' || $('.destination-city').val() == '请选择' || $('.destination-addr').val() == '') {
+        if ($('.destination-province').val() == '请选择' || $('.destination-city').val() == '请选择') {
             alert('请补全目的地');
             return false;
         }

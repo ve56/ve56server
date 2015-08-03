@@ -17,12 +17,12 @@ $(function() {
         var shipper = request.shipper_province;
         var model = request.truck_model;
         var length = request.truck_length;
-        var weight = request.truck_weight;
+        //var weight = request.truck_weight;
         $('.shipper-province').val(shipper);
         $('.destination-province').val(dest);
         $('#truck_model').val(model);
         $('#truck_length').val(length);
-        $('#truck_weight').val(weight);
+        //$('#truck_weight').val(weight);
     })();
 
     /**
@@ -36,13 +36,13 @@ $(function() {
         var destinationProvince = $('.destination-province').val();
         var model = $('#truck_model').val();
         var length = $('#truck_length').val();
-        var weight = $('#truck_weight').val();
+        //var weight = $('#truck_weight').val();
         var request = [
             'destination_province=' + destinationProvince,
             'shipper_province=' + shipperProvince,
             'truck_model=' + model,
             'truck_length=' + length,
-            'truck_weight=' + weight
+            //'truck_weight=' + weight
         ]
         window.location.search = encodeURI(request.join('&'));
     })

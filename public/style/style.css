@@ -350,7 +350,8 @@ a.phonecode {
 .formgroup textarea {
     padding: 8px;
     border: 1px solid #D8D9DC;
-    min-height: 100px;
+    /*min-height: 100px;*/
+    min-height: 80px;
     white-space: normal !important;
 }
 .formgroup input, .formgroup textarea {
@@ -553,11 +554,13 @@ a.phonecode {
     overflow: hidden;
 }
 .searchbar .selectbox {
-    width: 33.333333%;
+    /*width: 33.333333%;*/
+    width: 50%;
     float: left;
     border-right: 1px solid #EBECEE;
 }
 .selectbox select {
+    width: 100%;
     border: none;
     font-size: 14px;
 }
@@ -604,7 +607,7 @@ a.phonecode {
 }
 .mtag span {
     display: inline-block;
-    font-size: 12px;
+    font-size: 14px;
     padding: 3px 4px;
     background: #F4F5F5;
     border-radius: 2px;
@@ -624,7 +627,7 @@ a.phonecode {
     right: 2px;
 }
 .stime {
-    font-size: 12px;
+    font-size: 14px;
     color: #9EA0A9;
 }
 .no-data {
@@ -691,7 +694,7 @@ a.phonecode {
 .ucont {
     margin-left: 90px;
     margin-right: 60px;
-    padding-top: 22px;
+    padding-top: 40px;
 }
 .ucont h4 {
     color: #fff;
