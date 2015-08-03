@@ -11,12 +11,14 @@
     "debug": "~2.1.1",
     "ejs": "~2.3.1",
     "express": "~4.12.2",
+    "express-session": "^1.11.3",
+    "fis": "~1.8.5",
+    "mongoose": "~3.8.0",
     "morgan": "~1.5.1",
+    "ncp": "~2.0.0",
+    "request": "*",
     "serve-favicon": "~2.2.0",
     "stylus": "0.42.3",
-    "ncp":"~2.0.0",
-    "fis":"~1.8.5",
-    "underscore":"~1.8.2",
-    "mongoose":"~3.8.0"
+    "underscore": "~1.8.2"
   }
 }

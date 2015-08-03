@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>微易物流-找货</title>
+    <meta name="keywords" content="微易物流">
+    <meta name="description" content="微易物流">
+    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" id="viewport" name="viewport">
+    <meta content="telephone=no,email=no" name="format-detection" />
+    <link rel="stylesheet" href="style/style.css" />
+</head>
+<body>
+    <div class="findpage listpage">
+        <div class="areacut">
+            <a class="setout"><span>出发地</span>
+                <select class="shipper-province">
+                    <option>北京</option>
+                </select>
+            </a>
+            <a class="ico-cut cutsite"></a>
+            <a class="aim"><span>目的地</span>
+                <select class="destination-province">
+                    <option>北京</option>
+                </select>
+            </a>
+        </div>
+    </div>
+    <div class="searchbar">
+        <div class="selectbox">
+            <select name="truck_model" id="truck_model">
+                <option value="不限">不限</option>
+                <option value="平板">平板</option>
+                <option value="高栏">高栏</option>
+                <option value="厢式">厢式</option>
+                <option value="高低板">高低板</option>
+                <option value="保温冷藏">保温冷藏</option>
+                <option value="危险品">危险品</option>
+            </select>
+        </div>
+
+        <div class="selectbox">
+            <select name="truck_length" id="truck_length">
+                <option value="0">不限</option>
+                <option value="4">0-4米</option>
+                <option value="4.2">4.2米</option>
+                <option value="5">5米</option>
+                <option value="6.2">6.2米</option>
+                <option value="6.8">6.8米</option>
+                <option value="7.2">7.2米</option>
+                <option value="7.8">7.8米</option>
+                <option value="8.2">8.2米</option>
+                <option value="9.6">9.6米</option>
+                <option value="13">13米</option>
+                <option value="16">16米</option>
+                <option value="17.5">17.5米</option>
+                <option value="18">>18米</option>
+            </select>
+        </div>
+
+<!--         <div class="selectbox">
+            <select name="truck_weight" id="truck_weight">
+                <option value="0">不限</option>
+                <option value="-100">100kg以下</option>
+                <option value="100-300">100kg-300kg</option>
+                <option value="300-600">300-600kg</option>
+                <option value="600-1200">600-1200kg</option>
+                <option value="1200-1500">1200-1500kg</option>
+                <option value="1500-">1500kg+</option>
+            </select>
+        </div> -->
+    </div>
+    <div class="t-center">
+        <a href="javascript:void(0)" class="ico-search btn btn-b searcbtn">搜索</a>
+    </div>
+
+    <ul class="goodslist">
+        <% if(search == true && data.length == 0){%>
+            <div class="no-data">
+                没有找到合适订单哟换个条件试试？
+            </div>
+        <% } %>
+        <% data.forEach(function(item){ %>
+          <li>
+            <a href="goodsdetails?_id=<%=item._id%>">
+                <div class="goodscont">
+                    <i class="stime"><%var date=new Date(item.start_time);%><%=date.getFullYear()+'-'+(date.getMonth()+1)+'-'+date.getDate()%></i>
+                    <div class="itemarea">
+                        <p class="starsite"><i class="ico-local green"></i><%= item.shipper_province + item.shipper_city%></p>
+                        <p class="endsite"><i class="ico-local red"></i><%= item.destination_province + item.destination_city%></p>
+                    </div>
+                    <p class="mtag">
+                        <span><%= item.truck_model%></span>
+                        <span><%= item.truck_length%>m车长</span>
+                        <span><%= item.truck_weight%>kg</span>
+                    </p>
+                </div>
+                <a href="tel:<%= item.shipper_tel%>" class="takein">抢</a>
+            </a>
+        </li>
+        <% }) %>
+    </ul>
+    <script src='js/lib/zepto.min.js'></script>
+    <script src='js/utils/utils.js'></script>
+    <script src='js/app/goodslist.js'></script>
+</body>
+</html>
