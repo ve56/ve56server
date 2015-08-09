@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>司机-实名认证</title>
+	<meta name="keywords" content="微易物流">
+	<meta name="description" content="微易物流">
+	<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" id="viewport" name="viewport">
+	<meta content="telephone=no,email=no" name="format-detection" />
+	<link rel="stylesheet" href="style/style.css" />
+</head>
+<body>
+	<ul class="list dispatchinfo">
+		<li class="headimg">
+		<img src="images/userimg.png" alt="" />
+		<i>上传头像</i>
+		<input type="file" />
+		</li>
+		<li>
+			<label for=""><b>*</b>姓名</label>
+			<input name="name" type="text" placeholder="请输入真实姓名" value="<%=data[0].name%>"/>
+		</li>
+		<li>
+			<label for=""><b>*</b>电话</label>
+			<input type="text" placeholder="请输入手机号" value="<%=data[0].phone%>" readonly="" />
+		</li>
+
+		<li>
+			<label for=""><b>*</b>身份证号</label>
+			<input name="id" type="text" placeholder="请输入十三位身份证号" value="<%=data[0].id%>"/>
+		</li>
+		<li>
+			<label for=""><b>*</b>车牌号</label>
+			<input name="car_id" type="text" placeholder="请输入车牌号" value="<%=data[0].car_id%>"/>
+		</li>
+
+		<li>
+			<label for=""><b>*</b>驾驶证</label>
+			<input name="drive_id" type="text" placeholder="请输入驾驶证号" value="<%=data[0].drive_id%>"/>
+		</li>
+
+	</div>
+	<div class="footerbar">
+		<a class="btn submit">确认</a>
+		<a href="javascript:history.go(-1);" class="btn-b">取消</a>
+	</div>
+	<script src="js/lib/zepto.min.js"></script>
+	<script src="js/app/drive-info.js"></script>
+</body>
+</html>
